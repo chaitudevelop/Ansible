@@ -1,6 +1,6 @@
 - name: play level
   hosts: local
-  connections: local
+  connection: local
   vars:
     course: "ansible"
     duaration: "140hrs"
